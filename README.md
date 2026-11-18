@@ -58,3 +58,4 @@ Join our community of developers creating universal apps.
 "# my-adet-app" 
 "# my-adet-project" 
 # my-adet-project
+"# my-new-project" 
